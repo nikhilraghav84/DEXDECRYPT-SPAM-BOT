@@ -158,5 +158,7 @@
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
     "url": "heroku/python"
+  },{
+    "url": "https://github.com/heroku/heroku-buildpack-p7zip"
   }]
 }
