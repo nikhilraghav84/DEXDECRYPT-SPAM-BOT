@@ -119,7 +119,7 @@
         "required": false
       },
       "STRING21": {
-        "description": "Telethon String Session",
+        "description": "Telethon String Sessio",
         "value": "",
         "required": false
       },
